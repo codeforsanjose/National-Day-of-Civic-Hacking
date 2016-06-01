@@ -4,7 +4,6 @@
 
 ## June 3-5 held @ Tech Musem of Innovation
 
-#### [:rocket: Register as a Hacker :rocket:](http://atxhackforchange.org/attend.html
 #### [:bulb: Browse and Discuss Current Code for San Jose Projects :bulb:](https://github.com/codeforsanjose/Project-Ideas/issues)
 #### [:bulb: Code for America Challenge: Ready to work En Espanol :bulb:](https://www.codeforamerica.org/events/national-day-2016/challenge-ready-to-work-en-espanol)
 #### [:bulb: Code for America Challenge: Digital Service Census :bulb:](https://www.codeforamerica.org/events/national-day-2016/digital-service-census)
