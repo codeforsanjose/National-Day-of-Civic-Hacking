@@ -2,7 +2,7 @@
 
 ![Code for San Jose Logo](./images/Logo-BC1-square.png )
 
-## June 3-5 held @ Tech Musem of Innovation
+## June 4th held @ Tech Musem of Innovation
 
 #### [:bulb: Browse and Discuss Current Code for San Jose Projects :bulb:](https://github.com/codeforsanjose/Project-Ideas/issues)
 #### [:bulb: Code for America Challenge: Ready to work En Espanol :bulb:](https://www.codeforamerica.org/events/national-day-2016/challenge-ready-to-work-en-espanol)
