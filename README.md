@@ -1,6 +1,6 @@
 # National Day of Civic Hacking 2016
 
-![Code for San Jose Logo](National-Day-of-Civic-Hacking / Logo-BC1-square.png )
+![Code for San Jose Logo](National-Day-of-Civic-Hacking / images / Logo-BC1-square.png )
 
 ## June 3-5 held @ Tech Musem of Innovation
 
