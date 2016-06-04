@@ -4,8 +4,7 @@
 
 ## June 4th held @ Tech Musem of Innovation
 #### [:bulb: City of San Jose Vision Zero: Safer Streets for All! :bulb:](https://docs.google.com/document/d/1Tda2THs0ImpoynC9pLCpUmxicgNlaqdWarWoumsoQnM/edit?usp=sharing)
-#### [:bulb: Code for America Challenge: Ready to work En Espanol :bulb:](https://www.codeforamerica.org/events/national-day-2016/challenge-ready-to-work-en-espanol)
-#### [:bulb: Code for America Challenge: Digital Service Census :bulb:](https://www.codeforamerica.org/events/national-day-2016/digital-service-census)
+#### [:bulb: Code for America Challenges (Scroll Down) :bulb:](https://www.codeforamerica.org/events/national-day-2016)
 #### [:bulb: Browse and Discuss Current Code for San Jose Projects :bulb:](https://github.com/codeforsanjose/Project-Ideas/issues)
 #### [:bulb: Code for America's Code of Conduct :bulb:](https://github.com/codeforsanjose/codeofconduct)
 
