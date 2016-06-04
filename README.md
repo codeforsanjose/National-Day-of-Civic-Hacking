@@ -7,7 +7,7 @@
 #### [:bulb: Code for America Challenge: Ready to work En Espanol :bulb:](https://www.codeforamerica.org/events/national-day-2016/challenge-ready-to-work-en-espanol)
 #### [:bulb: Code for America Challenge: Digital Service Census :bulb:](https://www.codeforamerica.org/events/national-day-2016/digital-service-census)
 #### [:bulb: Browse and Discuss Current Code for San Jose Projects :bulb:](https://github.com/codeforsanjose/Project-Ideas/issues)
-#### [:bulb: National Day of Civic Hacking Code of Conduct :bulb:](https://github.com/codeforsanjose/codeofconduct)
+#### [:bulb: Code for America's Code of Conduct :bulb:](https://github.com/codeforsanjose/codeofconduct)
 
 
 ## Have a project to Pitch?
