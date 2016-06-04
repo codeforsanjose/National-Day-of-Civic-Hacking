@@ -17,11 +17,11 @@
 
 
 ## Agenda
-10am Doors Open
-10:20 Talks Begin
-11:00 Hacking starts
-12:30 Lunch served 
-1:30 Hacking continues
-4:15 Challenge / Project Updates
-4:30 Wrap up / Clean up 
-5pm Doors Shut
+1. 10:00 am Doors Open
+2. 10:20 am Talks Begin
+3. 11:00 am Hacking starts
+4. 12:30 pm Lunch served 
+5. 1:30  pm Hacking continues
+6. 4:15  pm Challenge / Project Updates
+7. 4:30  pm Wrap up / Clean up 
+8. 5:00  pm Doors Shut
