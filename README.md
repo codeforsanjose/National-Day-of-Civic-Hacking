@@ -1,6 +1,6 @@
 # National Day of Civic Hacking 2016
 
-![Code for San Jose Logo](./images/Logo-BC1-square.png )
+![Code for San Jose Logo](./images/600_450601366.jpg  )
 
 ## June 4th held @ Tech Musem of Innovation
 #### [:bulb: City of San Jose Vision Zero: Safer Streets for All! :bulb:](https://docs.google.com/document/d/1Tda2THs0ImpoynC9pLCpUmxicgNlaqdWarWoumsoQnM/edit?usp=sharing)
